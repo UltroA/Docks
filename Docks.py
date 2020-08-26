@@ -3,6 +3,7 @@ print ("Hello %username%, it docs for you.")
 print ("1. DDOS")
 print ("2. Virus --> gif")
 print ("3. Remote Android tool")
+print ("4. Python virus")
 what = input("What do u need?")
 
 if what == "1":
@@ -19,5 +20,10 @@ if what == "2":
 if what == "3":
 	print ()
 	print("For do ARMT Go to:")
+	print ("https://tgraph.io/Polnyj-dostup-k-chuzhomu-Android-cherez-Termux-08-23-3")
+	end = input()
+if what == "4":
+	print ()
+	print("To create virus Go to:")
 	print ("https://tgraph.io/Polnyj-dostup-k-chuzhomu-Android-cherez-Termux-08-23-3")
 	end = input()
